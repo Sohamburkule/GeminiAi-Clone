@@ -84,9 +84,6 @@ This will create an optimized production build in the `dist` directory.
 
 Contributions to the Gemini AI Clone project are welcome! If you'd like to contribute new features, improvements, or bug fixes, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
